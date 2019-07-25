@@ -8,7 +8,7 @@ To run it locally on Windows/MAC/Linux, you will need the config.json and the ap
 <p>
 The returned JSON data from Govtech API are nested in arrays and objects. The code parse these in golang struct and matches it with the input to provide the weather forecast value. <br>
 <p>
-The application will prompt the User for input, valid inputs are <br>
+The application will prompt the User for input, inputs are not case-sensitive and valid inputs are <br>
 1. Town-name <br>
 2. "All" keyword to print out all weather forecast <br>
 3. "Area" keyword to print out all town-name. <br>
