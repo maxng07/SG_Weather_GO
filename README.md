@@ -14,7 +14,15 @@ The application will prompt the User for input, inputs are not case-sensitive an
 1. Town-name <br>
 2. "All" keyword to print out all weather forecast <br>
 3. "Area" keyword to print out all town-name. <br>
-  
+
+<br>
 In Release 1.0, PSI readings are added. The application now accepts additional User Input, "PSI" or "psi" will extract PSI data from NEA and present PM2.5 Hourly and PSI Hourly Readings. The NEA PSI data has more datasets and more details can be included in the output. Reference can be looked up at <a href> https://www.haze.gov.sg </a> for meaning of PSI values and PM2.5 Air Quality values. Datasets of NEA PSI is on <a href> https://data.gov.sg/dataset/psi </a>
+<br>
+<h2>Demonstration </h2><br>
+The animated gif will show a sample output of the <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/weather_forecast.gif"> Weather App </a> and the Release1.0 <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/psi.gif"> PSI readings enhancement </a>
 
 The core Golang engine can be used as webhook on Cloud Communication Provider such as Twilio, Nexmo, Messagebird and others and send the weather forecast data as SMS, Voice, WhatsApp, LINE, Google Assistant.
+
+<h2>Installation </h2><br> 
+Get the latest version for Windows and macOSX version <a href="https://github.com/maxng07/SG_Weather_GO/releases">here </a><br>
+  
