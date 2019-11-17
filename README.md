@@ -35,7 +35,7 @@ Real Time Air Temperature <br>
 5. "Temp" keyword to print out 5min interval Real-time Air temperature across Weather Stations in Singapore
 
 <h2>Demonstration </h2>
-The animated gif will show a sample output of the <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/weather_forecast.gif"> Weather App </a> and the Release1.0 <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/psi.gif"> PSI readings enhancement </a>
+The animated gif will show the output of the <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/weather-psi-temp.gif"> Weather App </a>. All features are showcased.
 </p>
 The core Golang engine can be used as webhook on Cloud Communication Provider such as Twilio, Nexmo, Messagebird and others and send the weather forecast data as SMS, Voice, WhatsApp, LINE, Google Assistant.
 
