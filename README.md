@@ -19,7 +19,7 @@ The application will prompt the User for input, inputs are not case-sensitive an
 In Release 1.0, PSI readings are added. The application now accepts additional User Input, "PSI" or "psi" will extract PSI data from NEA and present PM2.5 Hourly and PSI Hourly Readings. The NEA PSI raw data has more datasets and more details can be included in the output. Reference can be looked up at <a href> https://www.haze.gov.sg </a> for meaning of PSI values and PM2.5 Air Quality values. Datasets of NEA PSI is on <a href> https://data.gov.sg/dataset/psi </a>
 <p>
 <h2> Release 2.0 </h2>
-In Release 2.0, Real-time Air Temperature Readings across Singapore are added. The data are retrieve from <a href="https://data.gov.sg/dataset/realtime-weather-readings"> Realtime Weather Readings across Singapore </a> maintained by GovTech. The Air Temperature readings in degreeC are taken on 5 minute time interval across the Weather Stations in Singapore. A new User Input, "Temp" or "temp" will extract JSON data for Air Temperature Readings. <p>
+In Release 2.0, Real-time Air Temperature Readings across Singapore are added. The data are retrieve from <a href="https://data.gov.sg/dataset/realtime-weather-readings"> Realtime Weather Readings across Singapore </a> maintained by GovTech. The Air Temperature readings in degreeC are taken on 5 minute time interval across the Weather Stations in Singapore. A new User Input, "Temp" or "temp" will extract JSON data for Air Temperature Readings. </p>
 The application logic is re-written for easier maintenance for future add-on. <br>
   
 <h2>Demonstration </h2>
