@@ -21,7 +21,19 @@ In Release 1.0, PSI readings are added. The application now accepts additional U
 <h2> Release 2.0 </h2>
 In Release 2.0, Real-time Air Temperature Readings across Singapore are added. The data are retrieve from <a href="https://data.gov.sg/dataset/realtime-weather-readings"> Realtime Weather Readings across Singapore </a> maintained by GovTech. The Air Temperature readings in degreeC are taken on 5 minute time interval across the Weather Stations in Singapore. A new User Input, "Temp" or "temp" will extract JSON data for Air Temperature Readings. Here is an overview of the <a href="https://data.gov.sg/dataset/realtime-weather-readings?view_id=81d91c06-158d-4f01-abd9-12108d954847&resource_id=17494bed-23e9-4b3b-ae89-232f87987163"> locations </a> on the Weather Stations </p>
 The application logic is re-written for easier maintenance for future add-on. <br>
-  
+
+# Usage - User Input
+Weather Forecast <br>
+1. "Town-name" <br>
+2. "All" keyword to print out all weather forecast <br>
+3. "Area" keyword to print out all town-name. <br>
+
+Air Quality - PSI <br>
+4. "PSI" keyword to print PSI PM2.5 and PSI Aggregate readings across 5 Regions in Singapore
+
+Real Time Air Temperature <br>
+5. "Temp" keyword to print out 5min interval Real-time Air temperature across Weather Stations in Singapore
+
 <h2>Demonstration </h2>
 The animated gif will show a sample output of the <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/weather_forecast.gif"> Weather App </a> and the Release1.0 <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/psi.gif"> PSI readings enhancement </a>
 </p>
