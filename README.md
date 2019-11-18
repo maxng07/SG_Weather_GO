@@ -1,4 +1,4 @@
-# Obtaining Singapore Weather Forecast 
+# Singapore Weather Forecast, Air Quality and Air Temperature Readings
 
 This is a complete rewrite of the application <a href="https://github.com/maxng07/sg-WhatsApp-Weather-DirectAPI">sg-WhatsApp-Weather-DirectAPI </a> using Golang. Application can be compiled into various binaries to run on Windows/EXE, Linux, Mac OSX and be executed locally to obtain the weather forecast of your choice town-name in Singapore. <br>
 <p>
