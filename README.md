@@ -20,7 +20,7 @@ In Release 1.0, PSI readings are added. The application now accepts additional U
 <p>
 <h2> Release 2.0 </h2>
 In Release 2.0, Real-time Air Temperature Readings across Singapore are added. The data are retrieve from <a href="https://data.gov.sg/dataset/realtime-weather-readings"> NEA Real Time Weather Forecast across Singapore </a> maintained by GovTech. The Air Temperature readings in degreeC are taken on 5 minute time interval from the Weather Stations distributed across Singapore. To read this, a new User Input is supported, "Temp" or "temp" will extract JSON data for Air Temperature Readings. Here is the google map of the <a href="https://data.gov.sg/dataset/realtime-weather-readings?view_id=81d91c06-158d-4f01-abd9-12108d954847&resource_id=17494bed-23e9-4b3b-ae89-232f87987163"> locations </a> on the Weather Stations </p>
-The application logic is also re-written for easier maintenance for future add-on. <br>
+The application logic is also re-written for easier maintenance for any future feature add-on. <br>
 
 # Usage - User Input
 Run the application program either by executing it in Command Prompt/Terminal Window or clicking from Finder Window.
