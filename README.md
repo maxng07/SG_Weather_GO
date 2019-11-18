@@ -39,7 +39,7 @@ The animated gif will show the output of the <a href="https://github.com/maxng07
 The core Golang engine can be used as webhook on Cloud Communication Provider such as Twilio, Nexmo, Messagebird and others and send the weather forecast data as SMS, Voice, WhatsApp, LINE, Google Assistant.
 
 <h2>Installation </h2>
-Get the latest version for Windows and macOSX version <a href="https://github.com/maxng07/SG_Weather_GO/releases">here </a><br>
-<p>
+Get the latest version for Windows and macOSX version <a href="https://github.com/maxng07/SG_Weather_GO/releases">here </a>
+</p>
 All Weather Data are from <a href="https://www.data.gov.sg">Data.gov.sg </a>
   
