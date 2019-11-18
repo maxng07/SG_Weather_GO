@@ -40,6 +40,6 @@ The core Golang engine can be used as webhook on Cloud Communication Provider su
 
 <h2>Installation </h2>
 Get the latest version for Windows and macOSX version <a href="https://github.com/maxng07/SG_Weather_GO/releases">here </a><br>
-
+<p>
 All Weather Data are from <a href="https://www.data.gov.sg">Data.gov.sg </a>
   
