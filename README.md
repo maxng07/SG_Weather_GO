@@ -10,6 +10,9 @@ The application will prompt the User for input, inputs are not case-sensitive an
 1. Town-name <br>
 2. "All" keyword to print out all weather forecast <br>
 3. "Area" keyword to print out all town-name. <br>
+</p>
+For the definition of Singapore Meteorological terminalogy used in the Weather Forecast, please refer to <a href="http://www.weather.gov.sg/forecasting-2/"> Weather Descriptor and Definition </a> used in forecast.
+
 
 <h2> Release 1.0 </h2> 
 In Release 1.0, PSI readings are added. The application now accepts additional User Input, "PSI" or "psi" will extract PSI data from NEA and present PM2.5 Hourly and PSI Hourly Readings. The NEA PSI raw data has more datasets and more details can be included in the output. Reference can be looked up at <a href> https://www.haze.gov.sg </a> for meaning of PSI values and PM2.5 Air Quality values. Datasets of NEA PSI is on <a href> https://data.gov.sg/dataset/psi </a>
