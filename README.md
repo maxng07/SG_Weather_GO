@@ -2,9 +2,9 @@
 
 This is a complete rewrite of the application <a href="https://github.com/maxng07/sg-WhatsApp-Weather-DirectAPI">sg-WhatsApp-Weather-DirectAPI </a> using Golang. Application can be compiled into binaries to run on Windows/EXE, Linux, Mac OSX and be executed locally to obtain the Weather Forecast, PSI and Temperature readings across Singapore. <br>
 <p>
-The Core Golang engine can also be deployed as a Serverless function in the Cloud (AWS/GCP/Twilio) replacing the Nodejs in <a href="https://github.com/maxng07/sg-WhatsApp-Weather-DirectAPI">sg-WhatsApp-Weather-DirectAPI </a> to GET and parse the real-time Weather forecast published by the Singapore National Environment Agency (NEA). <br>
+The Core Golang engine can also be deployed as a Serverless function in the Cloud (AWS/GCP/Twilio) replacing the Nodejs in <a href="https://github.com/maxng07/sg-WhatsApp-Weather-DirectAPI">sg-WhatsApp-Weather-DirectAPI </a> to GET and parse the real-time Weather forecast published by the Meteorological Service Singapore (MSS) under National Environment Agency (NEA). <br>
 <p>
-The NEA Weather Forecast JSON data from Govtech API are nested in arrays and objects. The code parse these in golang struct and matches it with the user's input to provide the weather forecast value. <br>
+The MSS Weather Forecast JSON data retrieve from Govtech API Gateway are nested in arrays and objects. The code parse these in golang struct and matches it with the user's input to provide the weather forecast value. <br>
 <p>
 The application will prompt the User for input, inputs are not case-sensitive and valid inputs are <br>
 1. Town-name <br>
@@ -15,10 +15,10 @@ For the definition of Singapore Meteorological terminalogy used in the Weather F
 
 
 <h2> Release 1.0 </h2> 
-In Release 1.0, PSI readings are added. The application now accepts additional User Input, "PSI" or "psi" will extract PSI data from NEA and present PM2.5 Hourly and PSI Hourly Readings. The NEA PSI raw data has more datasets and more details can be included in the output. Reference can be looked up at <a href> https://www.haze.gov.sg </a> for meaning of PSI values and PM2.5 Air Quality values. Datasets of NEA PSI is on <a href> https://data.gov.sg/dataset/psi </a>
+In Release 1.0, PSI readings are added. The application now accepts additional User Input, "PSI" or "psi" will extract PSI data from NEA and present PM2.5 Hourly and PSI Hourly Readings. The MSS PSI raw data has more datasets and more details can be included in the output. Reference can be looked up at <a href> https://www.haze.gov.sg </a> for meaning of PSI values and PM2.5 Air Quality values. Datasets of MSS PSI is on <a href> https://data.gov.sg/dataset/psi </a>
 <p>
 <h2> Release 2.0 </h2>
-In Release 2.0, Real-time Air Temperature Readings across Singapore are added. The data are retrieve from <a href="https://data.gov.sg/dataset/realtime-weather-readings"> NEA Real Time Weather Forecast across Singapore </a> maintained by GovTech. The Air Temperature readings in degreeC are taken on 5 minute time interval from the Weather Stations distributed across Singapore. To read this, a new User Input is supported, "Temp" or "temp" will extract JSON data for Air Temperature Readings. Here is the google map of the <a href="https://data.gov.sg/dataset/realtime-weather-readings?view_id=81d91c06-158d-4f01-abd9-12108d954847&resource_id=17494bed-23e9-4b3b-ae89-232f87987163"> locations </a> on the Weather Stations </p>
+In Release 2.0, Real-time Air Temperature Readings across Singapore are added. The data are retrieve from <a href="https://data.gov.sg/dataset/realtime-weather-readings"> MSS Real Time Weather Forecast across Singapore </a>, the API end points maintained by GovTech. The Air Temperature readings in degreeC are taken on 5 minute time interval from the Weather Stations distributed across Singapore. To read this, a new User Input is supported, "Temp" or "temp" will extract JSON data for Air Temperature Readings. Here is the google map of the <a href="https://data.gov.sg/dataset/realtime-weather-readings?view_id=81d91c06-158d-4f01-abd9-12108d954847&resource_id=17494bed-23e9-4b3b-ae89-232f87987163"> locations </a> on the Weather Stations </p>
 The application logic is also re-written for easier maintenance for any future feature add-on. <br>
 
 # Usage - User Input
@@ -45,4 +45,5 @@ The core Golang engine can be used as webhook on Cloud Communication Provider su
 Get the latest version for Windows and macOSX version <a href="https://github.com/maxng07/SG_Weather_GO/releases">here </a>
 </p>
 All Weather Data are from <a href="https://www.data.gov.sg">Data.gov.sg </a>
+More Weather info on <a href="http://www.weather.gov.sg">Meteorological Service Singapore (MSS) </a>
   
