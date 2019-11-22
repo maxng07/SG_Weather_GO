@@ -7,7 +7,17 @@ The 2 datasets measured in different station locations across Singapore, will ne
 
 Stations.json is a dataset correlating the 2 different station location datasets from MSS. The mapping between these 2 datasets are based on proximity and some degree of local knowledge between Weather station and Rain Gauge station. However, the familiarity and local knowledge of residents will help improve the mapping. Some degree of unknown or "guessimation" are used in the mapping of selected locations where the author has no complete local information. By Open Sourcing the mapping, the author hopes, with the help of others to improves the mapping, allowing more users to benefit on the accuracy of the information.
 
-Dataset:
+A sample output from the correlation
+`
+clementi
+The weather forecast for Clementi is Showers
+Valid Start Time: 2019-11-22T12:00:00+08:00
+Valid End Time: 2019-11-22T14:00:00+08:00
+Rain Gauge Station -  Clementi Road - Current Measurement - mm/5min: 0
+2019-11-22 12:30:00 +0800 +08
+`
+
+Dataset for correlations:
 1. Mapping for correlation - stations.json
 2. Weather Forecast station locations 
 3. TB1 Rain Gauge station locations
