@@ -16,7 +16,14 @@ Valid End Time: 2019-11-22T14:00:00+08:00
 Rain Gauge Station -  Clementi Road - Current Measurement - mm/5min: 0 
 2019-11-22 12:30:00 +0800 +08
 ```
-
+```
+clementi
+The weather forecast for Clementi is Partly Cloudy (Day)
+Valid Start Time: 2019-11-22T12:30:00+08:00
+Valid End Time: 2019-11-22T14:30:00+08:00
+Rain Gauge Station -  Clementi Road - Current Measurement - mm/5min: 0
+2019-11-22 12:55:00 +0800 +08
+```
 Dataset for correlations:
 1. Mapping for correlation - stations.json
 2. Weather Forecast station locations 
