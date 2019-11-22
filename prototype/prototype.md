@@ -8,6 +8,11 @@ Stations.json is a dataset correlating the 2 different station location datasets
 
 This is still a prototype.
 
+Dataset:
+1. Mapping for correlation - stations.json
+2. Weather Forecast station locations 
+3. TB1 Rain Gauge station locations
+
 References:-
 1. <a href="https://www.nea.gov.sg/corporate-functions/resources/facts-figures/mq">NEA/MSS Near real time data </a>
 2. <a href="http://www.weather.gov.sg/faq/"> Meterological Service Singapore </a>
