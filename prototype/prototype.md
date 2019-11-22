@@ -14,5 +14,5 @@ References:-
 3. <a href="http://www.emesystems.com/davis/documents/D7852%20Installation.pdf">Tipping Bucket Rain Gauge</a> and <a href="https://en.wikipedia.org/wiki/Rain_gauge"> Rain Gauge Wiki </a>
 4. <a href="https://kids.frontiersin.org/article/10.3389/frym.2018.00038"> How to measure Rain Fall </a>
 5. Google Map
-6. <a href="https://data.gov.sg/dataset/realtime-weather-readings?resource_id=8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d"> Near Real Time Rainfall Across Singapore </a> datasets
-7. <a href="https://data.gov.sg/dataset/weather-forecast"> 2 Hour Weather Forecast </a>
+6. <a href="https://data.gov.sg/dataset/realtime-weather-readings?resource_id=8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d"> Near Real Time Rainfall Across Singapore </a> dataset
+7. <a href="https://data.gov.sg/dataset/weather-forecast"> 2 Hour Weather Forecast </a> dataset
