@@ -29,7 +29,7 @@ Dataset for correlations:
 2. Weather Forecast station locations 
 3. TB1 Rain Gauge station locations
 
-The software build is robust and tested, however the accuracy of the correlation still needs to be work on.
+The software is robust and tested, however the accuracy of the correlation still needs to be work on for some locations.
 You are welcome to download a copy of the software <a href="https://github.com/maxng07/SG_Weather_GO/releases/tag/2.0.1"> here </a> and provide any feedback to the author. If you like to help out or provide inputs to the correlation of the Weather Station and Rain Gauge Station, please contact the author.
 
 References:-
