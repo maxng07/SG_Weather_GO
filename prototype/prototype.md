@@ -29,6 +29,9 @@ Dataset for correlations:
 2. Weather Forecast station locations 
 3. TB1 Rain Gauge station locations
 
+The software build is robust and tested, however the accuracy of the correlation still needs to be work on.
+You are welcome to download a copy of the software <a href="https://github.com/maxng07/SG_Weather_GO/releases/tag/2.0.1"> here </a> and provide any feedback to the author. If you like to help out or provide inputs to the correlation of the Weather Station and Rain Gauge Station, please contact the author.
+
 References:-
 1. <a href="https://www.nea.gov.sg/corporate-functions/resources/facts-figures/mq">NEA/MSS Near real time data </a>
 2. <a href="http://www.weather.gov.sg/faq/"> Meterological Service Singapore </a>
