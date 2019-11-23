@@ -24,6 +24,8 @@ Valid End Time: 2019-11-22T14:30:00+08:00
 Rain Gauge Station -  Clementi Road - Current Measurement - mm/5min: 0
 2019-11-22 12:55:00 +0800 +08
 ```
+From the sample output, Weather Forecast for Clementi is shown as "Showers" at 12:30H, but the Rain Gauge reading does not measure any rain. The Weather Forecast is subsequently updated to reflect the rain has passed and is no longer raining in Clementi Town.
+
 Dataset for correlations:
 1. Mapping for correlation - stations.json
 2. Weather Forecast station locations 
