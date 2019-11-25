@@ -26,7 +26,66 @@ Rain Gauge Station -  Clementi Road - Current Measurement - mm/5min: 0
 ```
 From the sample output, Weather Forecast for Clementi is shown as "Showers" at 12:30H, but the Rain Gauge reading does not measure any rain. The Weather Forecast is subsequently updated to reflect the rain has passed and is no longer raining in Clementi Town.
 
-Dataset for correlations:
+In addition, the ingested Rain Fall readings of all stations can be printed out by using the keyword "Rainfall" or "rainfall". This can be used by the User to have an idea if a nearby town or station is experiencing rain, there could be a higher chance of rain, depending on wind conditions.
+
+```
+rainfall
+Admiralty Road West - mm: 0
+Alexandra Road - mm: 0
+Ang Mo Kio Avenue 5 - mm: 0
+Banyan Road - mm: 0
+Bukit Panjang Road - mm: 0
+Bukit Timah Road - mm: 0
+Chai Chee Street - mm: 0
+Choa Chu Kang Avenue 4 - mm: 0.6
+Choa Chu Kang Road - mm: 0.4
+Clementi Road - mm: 0
+East Coast Parkway - mm: 0
+GEYLANG EAST CENTRAL - mm: 0
+Handy Road - mm: 0
+Holland Road - mm: 0
+Jurong Pier Road - mm: 0.2
+Kent Ridge Road - mm: 0
+Kim Chuan Road - mm: 0
+Kranji Way - mm: 8
+Lornie Road - mm: 0
+Mandai Lake Road - mm: 0.4
+Marine Parade Road - mm: 0
+Nanyang Avenue - mm: 0.4
+Nicoll Highway - mm: 0
+Old Choa Chu Kang Road - mm: 1.2
+Old Toh Tuck Road - mm: 0
+Pasir Ris Drive 12 - mm: 0.6
+Pasir Ris Street 51 - mm: 2.8
+Poole Road - mm: 0
+Pulau Ubin - mm: 0
+Punggol Central - mm: 0.2
+Scotts Road - mm: 0
+Seletar Aerospace View - mm: 0
+Sembawang Road - mm: 0.2
+Sentosa - mm: 0
+Sime Road - mm: 0
+Simei Avenue - mm: 0
+Somerset Road - mm: 0
+South Buona Vista Road - mm: 0
+Toa Payoh North - mm: 0
+Towner Road - mm: 0
+Tuas Road - mm: 0
+Tuas South Avenue 3 - mm: 0
+Tuas West Road - mm: 0
+Upper Changi Road North - mm: 5
+Upper Peirce Reservoir Park - mm: 1.2
+Upper Serangoon Road - mm: 0
+Upper Thomson Road - mm: 0
+West Coast Highway - mm: 0
+Woodlands Avenue 9 - mm: 1.8
+Woodlands Road - mm: 5.6
+Yishun Avenue 5 - mm: 0
+2019-11-24 14:45:00 +0800 +08
+```
+In the above example, Woodlands Road experience heavy rain (intensity of 5.6mm measured in 5mins interval) and Woodlands Ave 9 is having a rain fall of 1.8mm at 14:45hour.
+
+Dataset used for correlations:
 1. Mapping for correlation - stations.json
 2. Weather Forecast station locations 
 3. TB1 Rain Gauge station locations
