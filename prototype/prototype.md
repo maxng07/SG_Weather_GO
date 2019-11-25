@@ -83,7 +83,60 @@ Woodlands Road - mm: 5.6
 Yishun Avenue 5 - mm: 0
 2019-11-24 14:45:00 +0800 +08
 ```
-In the above example, Woodlands Road experience heavy rain (intensity of 5.6mm measured in 5mins interval) and Woodlands Ave 9 is having a rain fall of 1.8mm at 14:45hour.
+In the above example, Woodlands Road experience heavy rain (intensity of 5.6mm measured in 5mins interval) and Woodlands Ave 9 is having a rain fall of 1.8mm at 14:45hour. Output of "All" Weather Forecast to correlate
+
+```
+The weather for All of Singapore
+Valid Start Time: 2019-11-24T14:30:00+08:00
+Valid End Time: 2019-11-24T16:30:00+08:00
+Ang Mo Kio Thundery Showers
+Bedok Thundery Showers
+Bishan Thundery Showers
+Boon Lay Showers
+Bukit Batok Light Showers
+Bukit Merah Light Showers
+Bukit Panjang Thundery Showers
+Bukit Timah Light Showers
+Central Water Catchment Thundery Showers
+Changi Heavy Thundery Showers with Gusty Winds
+Choa Chu Kang Thundery Showers
+Clementi Light Showers
+City Showers
+Geylang Thundery Showers
+Hougang Thundery Showers
+Jalan Bahar Showers
+Jurong East Showers
+Jurong Island Showers
+Jurong West Showers
+Kallang Showers
+Lim Chu Kang Heavy Thundery Showers with Gusty Winds
+Mandai Heavy Thundery Showers with Gusty Winds
+Marine Parade Thundery Showers
+Novena Light Showers
+Pasir Ris Heavy Thundery Showers with Gusty Winds
+Paya Lebar Thundery Showers
+Pioneer Showers
+Pulau Tekong Heavy Thundery Showers with Gusty Winds
+Pulau Ubin Heavy Thundery Showers with Gusty Winds
+Punggol Heavy Thundery Showers with Gusty Winds
+Queenstown Light Showers
+Seletar Heavy Thundery Showers with Gusty Winds
+Sembawang Heavy Thundery Showers with Gusty Winds
+Sengkang Thundery Showers
+Sentosa Light Showers
+Serangoon Thundery Showers
+Southern Islands Light Showers
+Sungei Kadut Heavy Thundery Showers with Gusty Winds
+Tampines Thundery Showers
+Tanglin Showers
+Tengah Heavy Thundery Showers with Gusty Winds
+Toa Payoh Thundery Showers
+Tuas Showers
+Western Islands Light Showers
+Western Water Catchment Heavy Thundery Showers with Gusty Winds
+Woodlands Heavy Thundery Showers with Gusty Winds
+Yishun Heavy Thundery Showers with Gusty Winds
+```
 
 Dataset used for correlations:
 1. Mapping for correlation - stations.json
