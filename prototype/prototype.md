@@ -137,7 +137,7 @@ Western Water Catchment Heavy Thundery Showers with Gusty Winds
 Woodlands Heavy Thundery Showers with Gusty Winds
 Yishun Heavy Thundery Showers with Gusty Winds
 ```
-At times, you might want to know the Rain situation within a distance. It is possible to correlate Rain fall measurement seen in the Rain Gauge within the circumference of a town. In the example below, all Rain Gauge measurement within a 7.5km radius from "Clementi" Town Area are shown.
+At times, you might want to know the Rain situation within a distance. It is possible to correlate Rain fall measurement seen in all Rain Gauge Stations within the circumference of the query town area. In the example below, all Rain Gauge measurement within a 7.5km radius from "Clementi" Town Area are shown.
 ```
 The weather forecast for Clementi is Cloudy
 Forecast Time: 2019-11-30T02:00:00+08:00
