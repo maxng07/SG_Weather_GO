@@ -137,6 +137,24 @@ Western Water Catchment Heavy Thundery Showers with Gusty Winds
 Woodlands Heavy Thundery Showers with Gusty Winds
 Yishun Heavy Thundery Showers with Gusty Winds
 ```
+At times, you might want to know the Rain situation within a distance. It is possible to correlate Rain fall measurement seen in the Rain Gauge within the circumference of a town. In the example below, all Rain Gauge measurement within a 7.5km radius from "Clementi" Town Area are shown.
+```
+The weather forecast for Clementi is Cloudy
+Forecast Time: 2019-11-29T19:37:00+08:00
+
+Rain Gauge Station -  Clementi Road - Current Measurement - mm/5min: 0
+2019-11-29 19:40:00 +0800 +08
+Rain Gauge Station -  Kent Ridge Road - Current Measurement - mm/5min: 0
+2019-11-29 19:40:00 +0800 +08
+Rain Gauge Station -  Holland Road - Current Measurement - mm/5min: 0
+2019-11-29 19:40:00 +0800 +08
+Rain Gauge Station -  Bukit Timah Road - Current Measurement - mm/5min: 0
+2019-11-29 19:40:00 +0800 +08
+Rain Gauge Station -  Old Toh Tuck Road - Current Measurement - mm/5min: 0
+2019-11-29 19:40:00 +0800 +08
+Rain Gauge Station -  South Buona Vista Road - Current Measurement - mm/5min: 0
+2019-11-29 19:40:00 +0800 +08
+```
 
 Dataset used for correlations:
 1. Mapping for correlation - stations.json
