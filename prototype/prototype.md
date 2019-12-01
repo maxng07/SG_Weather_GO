@@ -140,16 +140,16 @@ Yishun Heavy Thundery Showers with Gusty Winds
 At times, you might want to know the Rain situation a distance from where you are. It is possible to correlate Rain fall measurement seen in all Rain Gauge Stations within the radius distance of the query town area. In the example below, all Rain Gauge measurement within a 7.5km radius from "Clementi" Town Area are shown. At this time, you can manually edit and add in the additional available station's readings you will like on the stations.json file. Using Latitude and Longitude to calculate stations distance within 7.5km could be a considered option or you can verify this with Google-Map. Having an external json file option provides greater flexibility. The auto calculation could be baked into the code in the future if this proves useful after careful monitoring, using Haversine Distance calculations.
 
 ```
-The weather forecast for Clementi is Cloudy
-Forecast Time: 2019-11-30T02:00:00+08:00
+The weather forecast for Clementi is Showers
+Forecast Time: 2019-12-01T14:30:00+08:00
 
-Rain Gauge Station -  Clementi Road - Current Measurement - mm/5min: 0
+Rain Gauge Station -  Clementi Road - Current Measurement - mm/5min: 0.4
 Rain Gauge Station -  Kent Ridge Road - Current Measurement - mm/5min: 0
 Rain Gauge Station -  Holland Road - Current Measurement - mm/5min: 0
 Rain Gauge Station -  Bukit Timah Road - Current Measurement - mm/5min: 0
 Rain Gauge Station -  Old Toh Tuck Road - Current Measurement - mm/5min: 0
 Rain Gauge Station -  South Buona Vista Road - Current Measurement - mm/5min: 0
-2019-11-30 02:20:00 +0800 +08
+2019-12-01 14:30:00 +0800 +08
 ```
 
 Dataset used for correlations:
