@@ -1,0 +1,194 @@
+{
+  "stations": [
+    {
+      "name": "Ang Mo Kio",
+      "id": "S109",
+      "tb": "Ang Mo Kio Avenue 5"
+    },
+    {
+      "name": "Bedok",
+      "id": "S61",
+      "tb": "Chai Chee Street"
+    },
+    {
+      "name": "Bishan",
+      "id": "S07",
+      "tb": "Lornie Road"
+    },
+    {
+      "name": "Boon Lay",
+      "id": "S33",
+      "tb": "Jurong Pier Road"
+    },
+    {
+      "name": "Bukit Batok",
+      "id": "S64",
+      "tb": "Bukit Panjang Road"
+    },
+    {
+      "name": "Bukit Merah",
+      "id": "S77",
+      "tb": "Alexandra Road"
+    },
+    {
+      "name": "Bukit Panjang",
+      "id": "S90",
+      "tb": "Bukit Timah Road"
+    },
+    {
+      "name": "Bukit Timah",
+      "id": "S90",
+      "tb": "Bukit Timah Road"
+    },
+    {
+      "name": "Central Water Catchment",
+      "id": "S69",
+      "tb": "Upper Peirce Reservoir Park"
+    },
+    {
+      "name": "Changi",
+      "id": "S24",
+      "tb": "Upper Changi Road North"
+    },
+    {
+      "name": "Clementi",
+      "id": "S50",
+      "tb": "Clementi Road"
+    },
+   {
+      "name": "Clementi",
+      "id": "S71",
+      "tb": "Kent Ridge Road"
+    },
+    {
+      "name": "Clementi",
+      "id": "S120",
+      "tb": "Holland Road"
+    },
+    {
+      "name": "Clementi",
+      "id": "S90",
+      "tb": "Bukit Timah Road"
+    },
+    {
+      "name": "Clementi",
+      "id": "S35",
+      "tb": "Old Toh Tuck Road"
+    },
+    {
+      "name": "Clementi",
+      "id": "S92",
+      "tb": "South Buona Vista Road"
+    },
+    {
+      "name": "City",
+      "id": "S118",
+      "tb": "Handy Road"
+    },
+    {
+      "name": "Jalan Bahar",
+      "id": "S44",
+      "tb": "Nanyang Avenue"
+    },
+    {
+      "name": "Jurong Island",
+      "id": "S117",
+      "tb": "Banyan Road"
+    },
+    {
+      "name": "Kallang",
+      "id": "S123",
+      "tb": "Towner Road"
+    },
+    {
+      "name": "Pulau Tekong",
+      "id": "S106",
+      "tb": "Pulau Ubin"
+    },
+    {
+      "name": "Pulau Ubin",
+      "id": "S106",
+      "tb": "Pulau Ubin"
+    },
+    {
+      "name": "Queenstown",
+      "id": "S71",
+      "tb": "Kent Ridge Road"
+    },
+    {
+      "name": "Seletar",
+      "id": "S900",
+      "tb": "Seletar Aerospace View"
+    },
+    {
+      "name": "Sembawang",
+      "id": "105",
+      "tb": "Admiralty Road West"
+    },
+    {
+      "name": "Sentosa",
+      "id": "S60",
+      "tb": "Sentosa"
+    },
+    {
+      "name": "Serangoon",
+      "id": "S88",
+      "tb": "Toa Payoh North"
+    },
+    {
+      "name": "Southern Islands",
+      "id": "S60",
+      "tb": "Sentosa"
+    },
+    {
+      "name": "Sungei Kadut",
+      "id": "S100",
+      "tb": "Woodlands Road"
+    },
+    {
+      "name": "Tampines",
+      "id": "S84",
+      "tb": "Simei Avenue"
+    },
+    {
+      "name": "Tanglin",
+      "id": "S79",
+      "tb": "Somerset Road"
+    },
+    {
+      "name": "Tengah",
+      "id": "S121",
+      "tb": "Old Choa Chu Kang Road"
+    },
+    {
+      "name": "Toa Payoh",
+      "id": "S88",
+      "tb": "Toa Payoh North"
+    },
+    {
+      "name": "Tuas",
+      "id": "S82",
+      "tb": "Tuas West Road"
+    },
+    {
+      "name": "Western Islands",
+      "id": "S117",
+      "tb": "Banyan Road"
+    },
+    {
+      "name": "Western Water Catchment",
+      "id": "",
+      "tb": ""
+    },
+    {
+      "name": "Woodlands",
+      "id": "S104",
+      "tb": "Woodlands Avenue 9"
+    },
+    {
+      "name": "Yishun",
+      "id": "S91",
+      "tb": "Yishun Avenue 5"
+    }
+  ]
+}
