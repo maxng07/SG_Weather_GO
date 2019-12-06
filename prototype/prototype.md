@@ -151,6 +151,7 @@ Rain Gauge Station -  Old Toh Tuck Road - Current Measurement - mm/5min: 0
 Rain Gauge Station -  South Buona Vista Road - Current Measurement - mm/5min: 2
 2019-12-02 14:55:00 +0800 +08
 ```
+Release 2.0, make use of Haversine Formulae to calculate distance based on Coordinates (Latitutde and Longitude). This workaround town areas to station mapping where the author does not have enough local knowledge and may be hard to pinpoint with Google-Map. With a Mathematical method using Haversine, it can compare and display all Rain Gauge Stations within the user defined radius distance. All Rain Gauge Stations within distance can be correlated and displayed.
 
 Dataset used for correlations:
 1. Mapping for correlation - stations.json
