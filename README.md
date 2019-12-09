@@ -44,7 +44,7 @@ Real Time Air Temperature <br>
 5. "Temp" keyword to print out 5min interval Real-time Air temperature across Weather Stations in Singapore <br>
 
 Near Real-Time Rainfall measurement <br>
-6. "Rainfall" keyword will print all measurement of Readings from Rain Gauge Stations. 
+6. "Rainfall" keyword will print all measurement of Readings from Rain Gauge Stations. <br>
 7. Correlation of Weather Forecast with Rain Gauge Readings are automatically included when you query for Town Area (in 1). Stations.json will configure the Correlated Stations.
 
 <h2>Demonstration </h2>
