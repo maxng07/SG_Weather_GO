@@ -22,9 +22,11 @@ In Release 2.0, Real-time Air Temperature Readings across Singapore are added. T
 The application logic is also re-written for easier maintenance for any future feature add-on. <br>
 
 <h2>Release 2.1 </h2>
-In Release 2.1, a correlation is done to display near real-time Rain Fall readings from Rain Gauge Station within the pre-defined radius distance. This provided a greater ground view. More details in the <a href="https://github.com/maxng07/SG_Weather_GO/wiki"> Wiki Page </a>
+In Release 2.1, a correlation is done to display near real-time Rain Fall readings from Rain Gauge Station within the pre-defined radius distance. This provided a better ground view. More details in the <a href="https://github.com/maxng07/SG_Weather_GO/wiki"> Wiki Page </a>
 <br>
 To compute distance between Weather Forecast Station and Rain Gauge Stations, see <a href="https://github.com/maxng07/Distance_RainGauge"> Calculating distance with Coordinates using Haversine </a>
+
+Correlated results will be display when you query for Weather Forecast in Town Area.
 
 # Usage - User Input
 Run the application program either by executing it in Command Prompt/Terminal Window or clicking from Finder Window.
