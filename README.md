@@ -45,7 +45,7 @@ Real Time Air Temperature <br>
 
 Near Real-Time Rainfall measurement <br>
 6. "Rainfall" keyword will print all measurement of Readings from Rain Gauge Stations. <br>
-7. Correlation of Weather Forecast with Rain Gauge Readings are automatically included when you query for Town Area (in 1). Stations.json will configure the Correlated Stations.
+7. Correlation of Weather Forecast with Rain Gauge Readings are automatically included when you query for Town Area (in 1). Stations.json will configure the Correlated Stations. See <a href="https://github.com/maxng07/Distance_RainGauge"> Calculating distance with Coordinates using Haversine </a>
 
 <h2>Demonstration </h2>
 The animated gif will show the output of the <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/weather-psi-temp.gif"> Weather App </a>. All features are showcased.
