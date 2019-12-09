@@ -41,7 +41,11 @@ Air Quality - PSI <br>
 4. "PSI" keyword to print PSI PM2.5 and PSI Aggregate readings across 5 Regions in Singapore
 
 Real Time Air Temperature <br>
-5. "Temp" keyword to print out 5min interval Real-time Air temperature across Weather Stations in Singapore
+5. "Temp" keyword to print out 5min interval Real-time Air temperature across Weather Stations in Singapore <br>
+
+Near Real-Time Rainfall measurement <br>
+6. "Rainfall" keyword will print all measurement of Readings from Rain Gauge Stations. 
+7. Correlation of Weather Forecast with Rain Gauge Readings are automatically included when you query for Town Area (in 1). Stations.json will configure the Correlated Stations.
 
 <h2>Demonstration </h2>
 The animated gif will show the output of the <a href="https://github.com/maxng07/SG_Weather_GO/blob/master/weather-psi-temp.gif"> Weather App </a>. All features are showcased.
